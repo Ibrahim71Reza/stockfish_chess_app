@@ -1,0 +1,2 @@
+Stockfish Android binary should be named as " stockfish_binary "
+and place that in " assets/stockfish "
